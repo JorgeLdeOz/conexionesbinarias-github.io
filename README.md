@@ -1,2 +1,2 @@
-# conexionesbinarias-github.io
+# Conexiones Binarias
 Blog personal de informática.
